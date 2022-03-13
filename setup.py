@@ -4,8 +4,8 @@ readme = open("./README.md", "r")
 
 
 setup(
-    name='Metodo_GaussJordan',
-    packages=['Metodo_GaussJordan'], 
+    name='Metodo GaussJordan',
+    packages=['Metodo GaussJordan'], 
     version='0.1',
     description='Con este paquete puedes resolver matrices nxn por GaussJordan',
     long_description=readme.read(),
