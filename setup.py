@@ -17,6 +17,7 @@ setup(
     download_url='https://github.com/IsoT0P0S/Metodo-GaussJordan.git',
     keywords=['testing', 'logging', 'example'],
     classifiers=[ ],
+    install_requires=['numpy'],
     license='MIT',
     include_package_data=True
 )
